@@ -1,16 +1,17 @@
-## Hi there 👋
+# Hi, I'm Balasaheb 👋
 
-<!--
-**balasahebjavheri-devops/balasahebjavheri-devops** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+• Working on a low-code/no-code platform supporting enterprise workflows and system configurations.
+• Involved in automation of business processes, integrations, and access control configurations (ABAC).
+• Supporting incident, risk, and compliance-related workflows and ensuring system stability.
+• Collaborating with internal teams on deployment support, environment configuration, and issue resolution.
+• Gaining hands-on exposure to Linux, AWS services, Git-based version control, and infrastructure concepts as part of DevOps.
 
-Here are some ideas to get you started:
+## 🔧 Tech Stack
+Linux · Bash · Git · Docker · Kubernetes · AWS · GitHub Actions · Terraform · Prometheus & Grafana
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Projects
+*(filling in as I build them through my DevOps prep)*
+
+## 📫 Connect
+LinkedIn: https://www.linkedin.com/in/balasaheb-j-9ab8643a5/
