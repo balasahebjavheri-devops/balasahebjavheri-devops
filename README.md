@@ -11,7 +11,7 @@
 Linux · Bash · Git · Docker · Kubernetes · AWS · GitHub Actions · Terraform · Prometheus & Grafana
 
 ## 🚀 Projects
-*(filling in as I build them through my DevOps prep)*
+*(filling in as I build them through my DevOps journey)*
 
 ## 📫 Connect
 LinkedIn: https://www.linkedin.com/in/balasaheb-j-9ab8643a5/
